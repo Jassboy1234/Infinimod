@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import Hyperspeed from './Hyperspeed/Hyperspeed';
 import './App.css';
 import Navbar from './Navbar.jsx';
@@ -18,3 +17,4 @@ function Home() {
 }
 
 export default Home;
+
